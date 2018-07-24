@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Portfolio
 
-Car Dealership: https://scuenco.github.io/CarDealership/
+Car Dealership: [https://scuenco.github.io/CarDealership/](https://scuenco.github.io/CarDealership/)
